@@ -16,6 +16,8 @@ If you find this project useful, you can support it via donation:
 
 **https://boosty.to/petersolomon/donate**
 
+<img width="150" height="150" alt="petersolomon-donate" src="https://github.com/user-attachments/assets/fcf40baa-a09e-4188-a036-7ad3a77f06ea" />
+
 ## 🌟 Features of the Automated Installation Script for MikroTik Routers
 
 The repository contains an **interactive automated installation script** for **RouterOS MikroTik**,  
